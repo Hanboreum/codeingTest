@@ -9,7 +9,7 @@ public class BOJ11382 {
         long A = sc.nextLong();
         long B = sc.nextLong();
         long C = sc.nextLong();
+        System.out.println(A+B+C);
 
-        System.out.println(A + B + C);
     }
 }
