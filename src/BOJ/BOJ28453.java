@@ -26,3 +26,4 @@ public class BOJ28453 {
         sc.close();
     }
 }
+
